@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: registry.dev.afsmtddso.com/r-rucker-harbor-project/lab-env-repo:1.0
+        image: registry.dev.afsmtddso.com/r-rucker-harbor-project/app:971c881-c5a90f9
         ports:
         - containerPort: 5000
