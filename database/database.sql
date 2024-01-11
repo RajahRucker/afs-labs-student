@@ -1,4 +1,4 @@
---
+--Adding comment for Lab 6
 -- PostgreSQL database dump
 --
 
